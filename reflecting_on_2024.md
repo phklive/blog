@@ -72,7 +72,7 @@ Great start of the year, especially thanks to [Jessy’s hacker house](https://x
 
 One week with some of the best of our space in one of the most beautiful hotels in the world. The best private event I have ever been to, period.
 
-![Ethaly](assets/reflecting_on_2024/ethaly.jpg)
+![Ethaly](assets/reflecting_on_2024/ethaly.JPG)
 
 **April - [ZKSummit 11](https://www.zksummit.com/), Athens, Greece**
 
@@ -114,13 +114,13 @@ It was in a castle! What else do you want me to say?!
 
 My first time in New York! What an incredible city—you get blown away by the drive and ambition of the people. Even the taxi driver has a startup idea. Probably my next stop in terms of where I would live.
 
-![sbc](assets/reflecting_on_2024/nyc.jpg)
+![sbc](assets/reflecting_on_2024/nyc.JPG)
 
 **August - [Paradigm Frontiers](https://frontiers.paradigm.xyz/), San-Francisco, USA**
 
 A very high-quality conference about the future of the EVM.
 
-![frontiers](assets/reflecting_on_2024/sanfrancisco.jpg)
+![frontiers](assets/reflecting_on_2024/sanfrancisco.JPG)
 
 **August - [Aztec](https://aztec.network/) Hash It Out, London, England**
 
@@ -156,7 +156,7 @@ One month of co-living, building, and fun in a five-star hotel ⭐️ in Thailan
 
 The best conference I have ever been to—stellar organization, high-quality events/talks/speakers, and in Bangkok. Met all my friends again, had daily meetings with friends, VCs, companies, teammates, etc. The highest ROI conference, in my opinion. If you go to one conference a year, go to Devcon (or Devconnect).
 
-![Devcon](assets/reflecting_on_2024/devcon.JPG)
+![Devcon](assets/reflecting_on_2024/devcon.jpg)
 
 **November - [Zuthailand](https://www.zuthailand.com/), Pattaya, Thailand**
 
