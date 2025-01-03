@@ -156,7 +156,7 @@ One month of co-living, building, and fun in a five-star hotel ⭐️ in Thailan
 
 The best conference I have ever been to—stellar organization, high-quality events/talks/speakers, and in Bangkok. Met all my friends again, had daily meetings with friends, VCs, companies, teammates, etc. The highest ROI conference, in my opinion. If you go to one conference a year, go to Devcon (or Devconnect).
 
-![Devcon](assets/reflecting_on_2024/devcon.jpg)
+![Devcon](assets/reflecting_on_2024/devcon.JPG)
 
 **November - [Zuthailand](https://www.zuthailand.com/), Pattaya, Thailand**
 
